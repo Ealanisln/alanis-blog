@@ -1,6 +1,6 @@
 // All the demo data that used as fallbacks when there's nothing in the dataset yet
 
-export const title = 'Blog.'
+export const title = 'Alanis Blog'
 
 export const description = [
   {
@@ -11,7 +11,7 @@ export const description = [
         _key: '4a58edd077880',
         _type: 'span',
         marks: [],
-        text: 'A statically generated blog example using ',
+        text: 'A simple web developer who is learning ',
       },
       {
         _key: '4a58edd077881',
