@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 interface CoverImageProps {
-  title: string
+  title?: string
   slug?: string
   image: any
   priority?: boolean
