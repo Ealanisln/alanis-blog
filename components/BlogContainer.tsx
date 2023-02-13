@@ -1,5 +1,5 @@
 interface BlogContainerProps {
-  children: React.ReactNode;
+  children: React.ReactNode
 }
 
 export default function BlogContainer({ children }: BlogContainerProps) {
