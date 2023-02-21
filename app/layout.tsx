@@ -10,8 +10,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head />
-      <body className="bg-white text-black">{children}
-      <AnalyticsWrapper />
+      <body 
+        className="bg-white text-black">{children}
+        <AnalyticsWrapper />
       </body>
     </html>
   )
